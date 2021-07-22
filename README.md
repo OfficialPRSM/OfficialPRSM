@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OfficialPRSM the Official Githu Account for PRSM 
+- 👋 Hi, I’m @OfficialPRSM The Official Github Page of the Participatory System Mapper (PRSM), the 100% Open Source, Free, Secure and easy-to-use mindmapper and System Visualiser
 - 👀 I’m interested in ... Opensource platforms 
-- 🌱 I’m currently learning ... html
-- 💞️ I’m looking to collaborate on ... html based systems
+- 🌱 I’m currently learning ... HTML5
+- 💞️ I’m looking to collaborate on ... HTML5 based systems
 - 📫 How to reach me ... prsm@prsm.uk
 
 <!---
